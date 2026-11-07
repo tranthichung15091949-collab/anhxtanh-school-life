@@ -1,3 +1,4 @@
+
 services:
   - type: web
     name: anhxtanh-school-life
@@ -5,3 +6,6 @@ services:
     plan: free
     buildCommand: npm install
     startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
