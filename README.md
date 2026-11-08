@@ -18,3 +18,6 @@ Máy chủ WebSocket đồng bộ vị trí và chat cơ bản. Để chơi qua 
 
 ## Giới hạn
 Mô hình phong cách low-poly, không phải scan 3D. Giờ học trong game là thời gian mô phỏng bắt đầu 7:15.
+
+## Triển khai website online
+Xem `DEPLOY_ONLINE.md` để triển khai GitHub + Render. Có sẵn `render.yaml`.
